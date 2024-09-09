@@ -1,0 +1,1 @@
+#forvo does not allow audio scraping. Implement one day if I'm making money to pay for an API key
